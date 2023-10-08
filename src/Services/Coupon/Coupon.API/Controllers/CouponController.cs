@@ -1,4 +1,5 @@
-﻿namespace Coupon.API.Controllers
+// The CouponController class provides an API endpoint to retrieve coupons and handles exceptions that may occur during the retrieval process.
+namespace Coupon.API.Controllers
 {
     using System;
     using System.Net;
